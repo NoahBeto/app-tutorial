@@ -1,0 +1,10 @@
+{"meta":{},"name":"color.mean.r","timestamp":"2026-07-21T16:34:24.029705083","value":104.65017529899691}
+{"meta":{},"name":"color.mean.g","timestamp":"2026-07-21T16:34:24.029705083","value":107.47264093846451}
+{"meta":{},"name":"color.mean.b","timestamp":"2026-07-21T16:34:24.029705083","value":104.83647653838734}
+{"meta":{},"name":"color.min.r","timestamp":"2026-07-21T16:34:24.029705083","value":0.0}
+{"meta":{},"name":"color.min.g","timestamp":"2026-07-21T16:34:24.029705083","value":0.0}
+{"meta":{},"name":"color.min.b","timestamp":"2026-07-21T16:34:24.029705083","value":0.0}
+{"meta":{},"name":"color.max.r","timestamp":"2026-07-21T16:34:24.029705083","value":255.0}
+{"meta":{},"name":"color.max.g","timestamp":"2026-07-21T16:34:24.029705083","value":255.0}
+{"meta":{},"name":"color.max.b","timestamp":"2026-07-21T16:34:24.029705083","value":255.0}
+{"meta":{"filename":"snapshot.jpg"},"name":"upload","timestamp":"2026-07-21T16:34:24.029705083","value":"/home/nbetoshana/app-tutorial/test-run/uploads/1784651664029705083-snapshot.jpg"}
