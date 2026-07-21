@@ -17,7 +17,7 @@ def compute_max_color(image):
 def main():
     with Plugin() as plugin:
         # open camera and take snapshot
-        with Camera("file://example.jpg") as camera:
+        with Camera("rtsp://admin:Sysadmin25!!@10.107.0.233:10007/h264Preview_01_main") as camera:
             snapshot = camera.snapshot()
 
         # compute mean color
